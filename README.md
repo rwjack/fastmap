@@ -13,3 +13,4 @@ fastmap IP BoxName [-a] [-t,u,tu]
   
 `-t,u,tu` : Performs the scan on (t)TCP, (u)UDP or (tu)Both
 
+`-n` : Only performs a quick port scan, without further analysis
