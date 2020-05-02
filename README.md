@@ -6,7 +6,7 @@ Just paste the code at the end of your `~/.bashrc`
 and after that, do `source ~/.bashrc`
 
 ### Usage:
-fastmap <IP> <BoxName> [-a] [-t,u,tu]
+fastmap IP BoxName [-a] [-t,u,tu]
 
 `-a` : adds a new line in /etc/hosts in the following format:
   `IP    BoxName.htb BoxName`
