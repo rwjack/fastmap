@@ -1,4 +1,4 @@
-map ()
+fastmap ()
 {	
 	# $1 = IP
 	# $2 = BOX NAME
