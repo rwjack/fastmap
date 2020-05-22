@@ -12,7 +12,7 @@ Save and use as a bash script
 Don't forget to `chmod u+x`
 
 ### Usage:
-fastmap IP BoxName [-a] [-t,u,tu]
+fastmap IP [-a BoxName] [-t,u,tu] [-n]
 
 `-a` : adds a new line in /etc/hosts in the following format:
   `IP    BoxName.htb BoxName`
