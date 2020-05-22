@@ -5,6 +5,10 @@ Nmap wrapper script for your .bashrc to speed up enumeration
 Just paste the code at the end of your `~/.bashrc` 
 and after that, do `source ~/.bashrc`
 
+OR:
+Save and use as a bash script
+Don't forget to `chmod u+x`
+
 ### Usage:
 fastmap IP BoxName [-a] [-t,u,tu]
 
