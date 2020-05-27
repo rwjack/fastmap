@@ -46,7 +46,9 @@ fastmap ()
                         echo " [-] Not editing /etc/hosts file"
                         echo " [*] nmap output name defaulting to $IP"
                 fi
-
+	
+	else
+		BOX_NAME=$IP
         fi
 
         ################# INITIAL PORT SCAN ###################
